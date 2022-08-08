@@ -1,0 +1,48 @@
+Word vocab size: 5139
+Begin training...
+max_epochs=60
+Epoch: 1
+train ppl: 2953.478
+dev ppl: 35.137
+Epoch: 1
+train ppl: 84.362
+dev ppl: 59.344
+Epoch: 1
+train ppl: 8.410
+dev ppl: 96.267
+Epoch: 1
+train ppl: 7.358
+dev ppl: 66.900
+Epoch: 1
+train ppl: 22.060
+dev ppl: 84.851
+Epoch: 1
+train ppl: 0.132
+dev ppl: 117.761
+Epoch: 1
+train ppl: 13.981
+dev ppl: 60.992
+Epoch: 1
+train ppl: 0.000
+dev ppl: 60.992
+Epoch: 1
+train ppl: 0.000
+dev ppl: 60.992
+Epoch: 1
+train ppl: 0.000
+dev ppl: 60.992
+Epoch: 1
+train ppl: 0.000
+dev ppl: 60.992
+Epoch: 1
+train ppl: 0.000
+dev ppl: 60.992
+Epoch: 1
+train ppl: 1.756
+dev ppl: 66.136
+Epoch: 1
+train ppl: 3.385
+dev ppl: 33.921
+Epoch: 1
+train ppl: 0.000
+dev ppl: 33.921
